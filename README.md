@@ -2,7 +2,7 @@
 
 ## Usage Instructions
 
-Please run `simple_test.py` to execute our CD-UDepth model.
+Please run `simple_test.py` to test our CD-UDepth model.
 
 ## Pretrained Model
 
