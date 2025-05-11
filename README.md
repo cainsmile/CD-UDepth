@@ -1,7 +1,7 @@
 # CD-UDepth
 
 ## Overview
-This repository contains the official implementation of our paper "CD-UDepth: Cross-Domain Underwater Depth Estimation" accepted for publication in Information Fusion. 
+This repository contains the official implementation of our paper "CD-UDepth: Complementary dual-source information fusion for underwater monocular depth estimation" accepted for publication in Information Fusion. 
 ## Usage Instructions
 
 Please run `simple_test.py` to test our CD-UDepth model.
